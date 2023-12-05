@@ -1,3 +1,3 @@
-# Aprende-java: Ejercicio 1:
+# Aprende-java con ejercicios
 
-Escribe un programa que muestre por pantalla tu nombre.
+
